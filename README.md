@@ -4,7 +4,7 @@ An end-to-end machine learning project that detects fraudulent credit card trans
 
 🚀 Live Demo
 
-🔗 (https://credit-card-fraud-detection-duirzk9g9wrcsjgz3qqxsu.streamlit.app/)
+🔗 https://credit-card-fraud-detection-duirzk9g9wrcsjgz3qqxsu.streamlit.app/
 
 📌 Problem Statement
 
